@@ -31,7 +31,7 @@ export default class HolbertonCourse {
 
   //   getter and setter for students attribute
   get students() {
-    return this._name;
+    return this._students;
   }
 
   set students(value) {
